@@ -1,5 +1,5 @@
 📊 Data Careers Survey Analysis
-! [Alt text](Images/Dashboard.PNG)
+![Dashboard](Image/Dashboard.PNG)
 🧠 Project Overview
 
 This project explores insights from a professional survey focused on "data-related careers" — including roles such as "Data Analyst, Data Engineer, Data Scientist, and Database Developer" — across multiple industries such as "Technology, Finance, and Healthcare".
@@ -71,10 +71,9 @@ Here are a few insights derived from the analysis:
 📂 Repository Structure
 
 ```
-📁 data/ — raw and cleaned survey datasets  
 📁 visuals/ — charts and screenshots of the dashboard   
+📄 Data Career Insights.xlsx — main Excel file with analysis, dashboard, Raw Dataset & Cleaned Dataset
 📄 README.md — project overview and documentation  
-📄 Data_Careers_Survey_Analysis.xlsx — main Excel file with analysis & dashboard
 ```
 
 ---
